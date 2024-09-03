@@ -6,4 +6,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'an-app-gradle-client'
+rootProject.name = 'java-app-gradle-plugin-client'
